@@ -8100,7 +8100,7 @@ textarea.form-control-lg {
 }
 
 .fs-0 {
-  font-size: 75%;
+  font-size: small;
 }
 .fs-1 {
   font-size: calc(1.375rem + 1.5vw) !important;
