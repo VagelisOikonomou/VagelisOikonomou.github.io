@@ -7703,8 +7703,11 @@ textarea.form-control-lg {
 .mb-5 {
   margin-bottom: 3rem !important;
 }
-.ms-max {
-  margin-left: -1.5rem;
+.mb-max {
+  align-content: center;
+  width: max-content;
+  margin-bottom: 1.5rem;
+  margin-left: 3rem;
 }
 .mb-auto {
   margin-bottom: auto !important;
