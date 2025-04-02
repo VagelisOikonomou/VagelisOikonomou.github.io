@@ -7701,7 +7701,7 @@ textarea.form-control-lg {
   margin-bottom: 3rem !important;
 }
 .ms-max {
-  margin-left: -1rem;
+  margin-left: -1.5rem;
 }
 .mb-auto {
   margin-bottom: auto !important;
@@ -8101,7 +8101,7 @@ textarea.form-control-lg {
   font-family: var(--bs-font-monospace) !important;
 }
 .fs-0 {
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 .fs-1 {
   font-size: calc(1.375rem + 1.5vw) !important;
